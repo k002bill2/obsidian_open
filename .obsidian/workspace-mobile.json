@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "3286f3cd7546929d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e39aa344284403",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7ac58337702bb74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NotebookLM/옵시디언 vs 노션_ 2025 지식 관리 도구 완벽 비교 분석 2025-12-21.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "옵시디언 vs 노션_ 2025 지식 관리 도구 완벽 비교 분석 2025-12-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "787e67cddc680031",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4a0cfaeeb6d3749e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4b47fe8787fc89f4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "83f85193c309d081",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "b18248a75d259d74",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2b256d5157db3740",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2b8c3e25b8cc4867",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "NotebookLM/이지게이트와 AI를 활용한 옵시디언 노트 자동화 가이드 2025-12-21.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9428dd8add877160",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "NotebookLM/이지게이트와 AI를 활용한 옵시디언 노트 자동화 가이드 2025-12-21.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0e5d1515009b14a3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "NotebookLM/이지게이트와 AI를 활용한 옵시디언 노트 자동화 가이드 2025-12-21.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "374d59dd68c2c575",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-ghost",
+          "title": "calendar"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c7ac58337702bb74",
+  "lastOpenFiles": [
+    "NotebookLM 자동 저장 가이드.md",
+    "Skills/Brand_Guidelines.md",
+    "NotebookLM/Gemini Conductor_ AI 기반 사양 중심 개발 프레임워크 2025-12-21.md",
+    "NotebookLM/클로드 코드_ 비동기 서브에이전트와 병렬 워크플로우 2025-12-21.md",
+    "NotebookLM/이지게이트와 AI를 활용한 옵시디언 노트 자동화 가이드 2025-12-21.md",
+    "NotebookLM/옵시디언 vs 노션_ 2025 지식 관리 도구 완벽 비교 분석 2025-12-21.md",
+    "copilot/copilot-conversations/옵시디언의_장점을_정리해줘@20251221_231247.md",
+    "NotebookLM/범용 AI 코딩 에이전트 스킬 로더 OpenSkills 안내서 2025-12-21.md",
+    "copilot/copilot-conversations/clean_code_에_대해_알려줘@20251221_233952.md",
+    "NotebookLM/노트북LM과 제미나이 캔버스_ 5가지 실전 시나리오 활용법 2025-12-21.md",
+    "NotebookLM/구글 Conductor_ 바이브 코딩을 넘어선 설계 중심 개발 2025-12-21.md",
+    "copilot/copilot-conversations/구글_conductor에_대해서_설명해줘@20251222_003224.md",
+    "개인자료/맥관련/VSCODE extension.md",
+    "개인자료/맥관련/2025년 맥북 앱 추천 리스트 MacOS 활용 극대화.md",
+    "Home.md",
+    "Clippings/진입장벽이 있지만 comfy ui를 추천 하는 이유.md",
+    "2025-12-22.md",
+    "copilot/copilot-conversations/mcp_서버에_대해서_알려줘@20251222_002707.md",
+    "copilot/copilot-conversations/옵시디언과_노션의_장단점_비교해줘@20251221_235802.md",
+    "copilot/copilot-conversations/테스트@20251222_002953.md",
+    "copilot/copilot-conversations/mcp_서버에_대해서_알려줘@20251222_002651.md",
+    "copilot/copilot-conversations/옵시디언에_대해_설명해줘@20251222_005320.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/memory",
+    "NotebookLM/AI 모델 유형 및 특성 비교 2025-12-21.md",
+    "NotebookLM/범용 AI 코딩 에이전트 스킬 로더 OpenSkills 안내서 2025-12-20.md",
+    "Claude/Claude-Code-Usage-Monitor Real-time Claude Code usage monitor with predictions and warnings 1.md"
+  ]
+}

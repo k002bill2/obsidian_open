@@ -1,0 +1,100 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "dev/README.md"
+    },
+    {
+      "basename": "api-key",
+      "path": "secret/api-key.md"
+    },
+    {
+      "basename": "🚨 API 키 보안 조치 가이드",
+      "path": "🚨 API 키 보안 조치 가이드.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "Custom Frames에 Obsidian 저장 버튼 추가 가이드",
+      "path": "Custom Frames에 Obsidian 저장 버튼 추가 가이드.md"
+    },
+    {
+      "basename": "Recent Conversations",
+      "path": "copilot/memory/Recent Conversations.md"
+    },
+    {
+      "basename": "Simplify",
+      "path": "copilot/copilot-custom-prompts/Simplify.md"
+    },
+    {
+      "basename": "Summarize",
+      "path": "copilot/copilot-custom-prompts/Summarize.md"
+    },
+    {
+      "basename": "Rewrite as tweet thread",
+      "path": "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
+    },
+    {
+      "basename": "Rewrite as tweet",
+      "path": "copilot/copilot-custom-prompts/Rewrite as tweet.md"
+    },
+    {
+      "basename": "Remove URLs",
+      "path": "copilot/copilot-custom-prompts/Remove URLs.md"
+    },
+    {
+      "basename": "Make shorter",
+      "path": "copilot/copilot-custom-prompts/Make shorter.md"
+    },
+    {
+      "basename": "Generate table of contents",
+      "path": "copilot/copilot-custom-prompts/Generate table of contents.md"
+    },
+    {
+      "basename": "Generate glossary",
+      "path": "copilot/copilot-custom-prompts/Generate glossary.md"
+    },
+    {
+      "basename": "Fix grammar and spelling",
+      "path": "copilot/copilot-custom-prompts/Fix grammar and spelling.md"
+    },
+    {
+      "basename": "Explain like I am 5",
+      "path": "copilot/copilot-custom-prompts/Explain like I am 5.md"
+    },
+    {
+      "basename": "Emojify",
+      "path": "copilot/copilot-custom-prompts/Emojify.md"
+    },
+    {
+      "basename": "Make longer",
+      "path": "copilot/copilot-custom-prompts/Make longer.md"
+    },
+    {
+      "basename": "Translate to Chinese",
+      "path": "copilot/copilot-custom-prompts/Translate to Chinese.md"
+    },
+    {
+      "basename": "Project Rules",
+      "path": "Project Rules.md"
+    },
+    {
+      "basename": "Sub Agents",
+      "path": "Sub Agents.md"
+    },
+    {
+      "basename": "System Prompt",
+      "path": "System Prompt.md"
+    },
+    {
+      "basename": "모듈분석_Core_Business_Services",
+      "path": "모듈분석_Core_Business_Services.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
