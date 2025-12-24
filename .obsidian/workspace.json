@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/README.md",
+                "file": "Custom Frames에 Obsidian 저장 버튼 추가 가이드.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Custom Frames에 Obsidian 저장 버튼 추가 가이드"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 370.5
   },
   "right": {
     "id": "9a5d34b4d8ffc7f4",
@@ -200,11 +200,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 703.5
+    "width": 797.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,16 +223,20 @@
   },
   "active": "fb857048897c6765",
   "lastOpenFiles": [
+    "🔧 저장 오류 해결 가이드.md",
+    "🐵 Tampermonkey 설치 가이드.md",
     "secret/api-key.md",
+    "secret",
+    "NotebookLM/클로드 코드_ 비동기 서브에이전트와 병렬 워크플로우 2025-12-24.md",
+    "Custom Frames에 Obsidian 저장 버튼 추가 가이드.md",
+    "copilot/copilot-conversations/넌_누구야@20251224_142405.md",
+    "dev/README.md",
     "🚨 API 키 보안 조치 가이드.md",
     "CLAUDE.md",
-    "Custom Frames에 Obsidian 저장 버튼 추가 가이드.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/구글_생태계에_대해_말해줘@20251222_135240.md",
     "copilot/copilot-conversations/구글@20251222_141706.md",
-    "dev/README.md",
     "NotebookLM/구글 AI 생태계 활용 업무 효율화 가이드 2025-12-22.md",
-    "secret",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -245,11 +249,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-conversations/옵시디언과_노션의_장단점_비교해줘@20251221_235802.md",
-    "copilot/copilot-conversations/구글_conductor에_대해서_설명해줘@20251222_003224.md",
-    "copilot/copilot-conversations/mcp_서버에_대해서_알려줘@20251222_002707.md",
-    "NotebookLM/클로드 코드_ 비동기 서브에이전트와 병렬 워크플로우 2025-12-21.md",
-    "Excalidraw/Drawing 2025-12-15 14.59.07.excalidraw.md",
-    "네이버챠트.md",
     "Untitled.canvas",
     "copilot/memory",
     "전체글.base",
